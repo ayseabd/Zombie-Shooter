@@ -1,0 +1,18 @@
+C:\Users\Ayşe\Desktop\Zombie Shooter\Zombie Shooter\bin\Release\netcoreapp3.1\Zombie Shooter.exe
+C:\Users\Ayşe\Desktop\Zombie Shooter\Zombie Shooter\bin\Release\netcoreapp3.1\Zombie Shooter.deps.json
+C:\Users\Ayşe\Desktop\Zombie Shooter\Zombie Shooter\bin\Release\netcoreapp3.1\Zombie Shooter.runtimeconfig.json
+C:\Users\Ayşe\Desktop\Zombie Shooter\Zombie Shooter\bin\Release\netcoreapp3.1\Zombie Shooter.runtimeconfig.dev.json
+C:\Users\Ayşe\Desktop\Zombie Shooter\Zombie Shooter\bin\Release\netcoreapp3.1\Zombie Shooter.dll
+C:\Users\Ayşe\Desktop\Zombie Shooter\Zombie Shooter\bin\Release\netcoreapp3.1\Zombie Shooter.pdb
+C:\Users\Ayşe\Desktop\Zombie Shooter\Zombie Shooter\obj\Release\netcoreapp3.1\Zombie Shooter.csprojAssemblyReference.cache
+C:\Users\Ayşe\Desktop\Zombie Shooter\Zombie Shooter\obj\Release\netcoreapp3.1\Zombie_Shooter.Form1.resources
+C:\Users\Ayşe\Desktop\Zombie Shooter\Zombie Shooter\obj\Release\netcoreapp3.1\Zombie_Shooter.gameScreen.resources
+C:\Users\Ayşe\Desktop\Zombie Shooter\Zombie Shooter\obj\Release\netcoreapp3.1\Zombie_Shooter.howToPlayScreen.resources
+C:\Users\Ayşe\Desktop\Zombie Shooter\Zombie Shooter\obj\Release\netcoreapp3.1\Zombie_Shooter.Properties.Resources.resources
+C:\Users\Ayşe\Desktop\Zombie Shooter\Zombie Shooter\obj\Release\netcoreapp3.1\Zombie Shooter.csproj.GenerateResource.cache
+C:\Users\Ayşe\Desktop\Zombie Shooter\Zombie Shooter\obj\Release\netcoreapp3.1\Zombie Shooter.AssemblyInfoInputs.cache
+C:\Users\Ayşe\Desktop\Zombie Shooter\Zombie Shooter\obj\Release\netcoreapp3.1\Zombie Shooter.AssemblyInfo.cs
+C:\Users\Ayşe\Desktop\Zombie Shooter\Zombie Shooter\obj\Release\netcoreapp3.1\Zombie Shooter.csproj.CoreCompileInputs.cache
+C:\Users\Ayşe\Desktop\Zombie Shooter\Zombie Shooter\obj\Release\netcoreapp3.1\Zombie Shooter.dll
+C:\Users\Ayşe\Desktop\Zombie Shooter\Zombie Shooter\obj\Release\netcoreapp3.1\Zombie Shooter.pdb
+C:\Users\Ayşe\Desktop\Zombie Shooter\Zombie Shooter\obj\Release\netcoreapp3.1\Zombie Shooter.genruntimeconfig.cache
